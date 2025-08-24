@@ -3,6 +3,8 @@
 Projeto em p5.js que renderiza o clássico Bad Apple!! em ASCII, diretamente no navegador.
 Cada frame do vídeo é convertido em caracteres, utilizando um mapeamento de brilho para símbolos, resultando em uma versão artística e interativa do clipe.
 
+![alt text](image.png)
+
 🔗 Acesse a [demo](https://imoutofbounds.github.io/Bad-Apple-ASCII/) aqui
 
 ✨ Tecnologias
